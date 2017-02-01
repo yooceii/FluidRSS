@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FluidRSS</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="account_email">563611424@qq.com</string>
+
+    <string name="hour">hour</string>
+    <string name="day">day</string>
+
+    <string name="add_Rsssource">add source</string>
+    <string name="add_source_link">Add source link</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
