@@ -1,2 +1,2 @@
 # FluidRSS
-this is a simple project to read rss source
+Android project for reading RSS resource
